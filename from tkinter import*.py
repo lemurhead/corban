@@ -1,4 +1,4 @@
-from tkinter import*
+from tkinter import *
 import random
 tk = Tk()
 WIDTH = 500
